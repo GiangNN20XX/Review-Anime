@@ -1,37 +1,110 @@
 [
     {
         "id": 1,
-        "name": "Death Note",
-        "genre": "Thriller, Supernatural, Psychological, Police, Mystery",
-        "episode": 37,
-        "describe": "Một thần chết tên Ryuuku cố tình đánh rơi quyển sổ Death Note xuống thế giới loài người với mong muốn rằng hắn sẽ tìm được một thú vui nào đó từ việc này. Một học sinh trung học tên Yagami Light (hay Yagami Raito) là người nhặt được quyển sổ này và vì thế mà có khả năng giết bất cứ người nào chỉ bằng cách cách viết tên người đó vào quyển sổ và tưởng tượng ra khuôn mặt họ khi viết. Cậu quyết định dùng Death Note để tiêu diệt những kẻ tội phạm và những kẻ giết người tàn ác thông qua cuốn sổ. Khi tỉ lệ tôi phạm giảm xuống, mọi người nhanh chóng đặt cho cậu cái tên Kira. Đó cũng chính là lúc ICPO thuê L, thám tử tài giỏi bậc nhất thế giới, để tìm ra chân tướng thật sự của Kira..."
+        "title": "Pokemon Sun & Moon",
+        "genre": "Adventure, fantasy, comedy",
+        "episode": 146,
+        "description": "Tiếp nối cuộc hành trình của Satoshi trên con đường trở thành bậc thầy Pokemon của mình,lần này cậu đến với hòn đảo Melemele của vùng Alola, choáng ngợp trước sự hoa lệ của vùng đảo cùng sức mạnh mới lạ và nhiều loại pokemon mới cậu đã quyết định ở lại học tập phát triển tại đó. Hãy theo dấu chân của Satoshi để biết thêm chi tiết nhé!  "
     },
     {
         "id": 2,
-        "name": "Attack on Titan",
+        "title": "Doraemon",
         "genre": "Shounen, Super Power, Fantasy, Drama, Mystery, Military, Action",
         "episode": 77,
-        "describe": "Một thần chết tên Ryuuku cố tình đánh rơi quyển sổ Death Note xuống thế giới loài người với mong muốn rằng hắn sẽ tìm được một thú vui nào đó từ việc này. Một học sinh trung học tên Yagami Light (hay Yagami Raito) là người nhặt được quyển sổ này và vì thế mà có khả năng giết bất cứ người nào chỉ bằng cách cách viết tên người đó vào quyển sổ và tưởng tượng ra khuôn mặt họ khi viết. Cậu quyết định dùng Death Note để tiêu diệt những kẻ tội phạm và những kẻ giết người tàn ác thông qua cuốn sổ. Khi tỉ lệ tôi phạm giảm xuống, mọi người nhanh chóng đặt cho cậu cái tên Kira. Đó cũng chính là lúc ICPO thuê L, thám tử tài giỏi bậc nhất thế giới, để tìm ra chân tướng thật sự của Kira..."
+        "description": ""
     },
     {
         "id": 3,
-        "name": "Fullmetal Alchemist: Brotherhood",
+        "title": "Dragon Ball Z",
         "genre": "Shounen, Fantasy, Drama, Comedy, Adventure, Military, Magic, Action",
         "episode": 51,
-        "describe": "Câu chuyện xoay quanh hai anh em nhà Elric, Edward và Alphonse. Cha của Ed và Al đã bỏ nhà để theo đuổi giả kim thuật từ khi hai người còn rất nhỏ, vì thế đối với cả hai anh em thì mẹ là gia đình duy nhất. Khi mẹ mất – lúc Ed chỉ mới 10 tuổi và Al 9 tuổi – hai anh em đã phạm vào điều cấm kị khi quyết định hồi sinh mẹ bằng giả kim thuật. Kết quả là chẳng những không hồi sinh được mẹ mà Edward mất một chân và Alphonse mất cả linh hồn và thể xác. Ed đã hi sinh một cánh tay để đưa linh hồn Alphonse trở về trong một bộ áo giáp sắt. Trước hậu quả đau thương đó, Ed và Al từ bỏ ước mơ hồi sinh mẹ, và bắt đầu cuộc hành trình để tìm lại những gì đã mất. Họ khám phá ra chìa khoá để hoàn thành ước nguyện của mình là Hòn đá, nhưng muốn tạo ra Hòn đá đó phải trả một cái giá rất đắt. Cũng trên con đường đi tìm lại thân thể, Ed và Al đã phát hiện một bí mật kinh khủng về Giả kim thuật và Hòn đá Triết Gia.",
+        "description": ""
     },
     {
         "id": 4,
-        "name": "Naruto Shippuden",
+        "title": "Naruto Shippuden",
         "genre": "Shounen, Super Power, Comedy, Martial Arts, Action",
         "episode": 500,
-        "describe": "Tiếp nối phần I sau khi cậu bé cùng sư phụ Jiraiya của mình đi tập luyện xa trở về làng Lá. Sau khi huấn luyện 2 năm rưỡi với Jiraiya, Naruto trở về làng Lá, đoàn tụ với những người bạn cậu đã chia tay, và lập lại Nhóm 7, giờ được gọi là Nhóm Kakashi, với Sai thế chỗ Sasuke. Tất cả những người bạn của Naruto đều đã trưởng thành và thăng cấp, có người hơn người khác. Không giống như phần đầu khi chúng chỉ đóng vai trò phụ, tổ chức Akatsuki chiếm lấy vai trò đối nghịch chính trong tham vọng thống trị thế giới.",
+        "description": " "
     },
     {
         "id": 5,
-        "name": "Dragon Ball Z",
+        "title": "Conan",
         "genre": "Shounen, Super Power, Fantasy, Comedy, Adventure, Martial Arts, Action,",
         "episode": 291,
-        "describe": "Câu chuyện được tiếp diễn sau khi chiến thắng Đại ma vương Picollo ở kỳ đại hội lần trước . Với những cuộc chiến thực sự kinh hoàng với Radic ,Vegadic, Fide, Cell (Xên bọ Hung), Ma Bư.",
+        "description": ""
     },
+    {
+        "id": 6,
+            "title": "Vùng đất linh hồn",
+            "genre": "Thriller, Supernatural, Psychological, Police, Mystery",
+            "episode": 37,
+            "description": "Một thần chết tên Ryuuku cố tình đánh rơi quyển sổ Death Note xuống thế giới loài người với mong muốn rằng hắn sẽ tìm được một thú vui nào đó từ việc này. Một học sinh trung học tên Yagami Light (hay Yagami Raito) là người nhặt được quyển sổ này và vì thế mà có khả năng giết bất cứ người nào chỉ bằng cách cách viết tên người đó vào quyển sổ và tưởng tượng ra khuôn mặt họ khi viết. Cậu quyết định dùng Death Note để tiêu diệt những kẻ tội phạm và những kẻ giết người tàn ác thông qua cuốn sổ. Khi t."
+        },
+        {
+            "id": 7,
+            "title": "cô dâu pháp sư",
+            "genre": "Shounen, Super Power, Fantasy, Drama, Mystery, Military, Action",
+            "episode": 77,
+            "description": ""
+        },
+        {
+            "id": 8,
+            "title": "tháng 4 là lời nói dối của em",
+            "genre": "Shounen, Fantasy, Drama, Comedy, Adventure, Military, Magic, Action",
+            "episode": 51,
+            "description": "."
+        },
+        {
+            "id": 9,
+            "title": "nhất quỷ nhì ma thứ 3 takagi",
+            "genre": "Shounen, Super Power, Comedy, Martial Arts, Action",
+            "episode": 500,
+            "description": ""
+        },
+        {
+            "id": 10,
+            "title": "Dr.Stone",
+            "genre": "Shounen, Super Power, Fantasy, Comedy, Adventure, Martial Arts, Action,",
+            "episode": 291,
+            "description": ""
+        },
+        
+        {
+                "id": 11,
+                "title": "kimitsu no yaiba",
+                "genre": "Thriller, Supernatural, Psychological, Police, Mystery",
+                "episode": 37,
+                "description": "Một thần chết tên Ryuuku cố tình đánh rơi quyển sổ Death Note xuống thế giới loài người với mong muốn rằng hắn sẽ tìm được một thú vui nào đó từ việc này. Một học sinh trung học tên Yagami Light (hay Yagami Raito) là người nhặt được quyển sổ này và vì thế mà có khả năng giết bất cứ người nào chỉ bằng cách cách viết tên người đó vào quyển sổ và tưởng tượng ra khuôn mặt họ khi viết. Cậu quyết định dùng Death Note để tiêu diệt những kẻ tội phạm và những kẻ giết người tàn ác thông qua cuốn sổ. Khi tỉ lệ tôi phạm giảm xuống, mọi người nhanh chóng đặt cho cậu cái tên Kira. Đó cũng chính là lúc ICPO thuê L, thám tử tài giỏi bậc nhất thế giới, để tìm ra chân tướng thật sự của Kira..."
+            },
+            {
+                "id": 12,
+                "title": "Attack on Titan",
+                "genre": "Shounen, Super Power, Fantasy, Drama, Mystery, Military, Action",
+                "episode": 77,
+                "description": "Một thần chết tên Ryuuku cố tình đánh rơi quyển sổ Death Note xuống thế giới loài người với mong muốn rằng hắn sẽ tìm được một thú vui nào đó từ việc này. Một học sinh trung học tên Yagami Light (hay Yagami Raito) là người nhặt được quyển sổ này và vì thế mà có khả năng giết bất cứ người nào chỉ bằng cách cách viết tên người đó vào quyển sổ và tưởng tượng ra khuôn mặt họ khi viết. Cậu quyết định dùng Death Note để tiêu diệt những kẻ tội phạm và những kẻ giết người tàn ác thông qua cuốn sổ. Khi tỉ lệ tôi phạm giảm xuống, mọi người nhanh chóng đặt cho cậu cái tên Kira. Đó cũng chính là lúc ICPO thuê L, thám tử tài giỏi bậc nhất thế giới, để tìm ra chân tướng thật sự của Kira..."
+            },
+            {
+                "id": 13,
+                "title": "Fullmetal Alchemist: Brotherhood",
+                "genre": "Shounen, Fantasy, Drama, Comedy, Adventure, Military, Magic, Action",
+                "episode": 51,
+                "description": "Câu chuyện xoay quanh hai anh em nhà Elric, Edward và Alphonse. Cha của Ed và Al đã bỏ nhà để theo đuổi giả kim thuật từ khi hai người còn rất nhỏ, vì thế đối với cả hai anh em thì mẹ là gia đình duy nhất. Khi mẹ mất – lúc Ed chỉ mới 10 tuổi và Al 9 tuổi – hai anh em đã phạm vào điều cấm kị khi quyết định hồi sinh mẹ bằng giả kim thuật. Kết quả là chẳng những không hồi sinh được mẹ mà Edward mất một chân và Alphonse mất cả linh hồn và thể xác. Ed đã hi sinh một cánh tay để đưa linh hồn Alphonse trở về trong một bộ áo giáp sắt. Trước hậu quả đau thương đó, Ed và Al từ bỏ ước mơ hồi sinh mẹ, và bắt đầu cuộc hành trình để tìm lại những gì đã mất. Họ khám phá ra chìa khoá để hoàn thành ước nguyện của mình là Hòn đá, nhưng muốn tạo ra Hòn đá đó phải trả một cái giá rất đắt. Cũng trên con đường đi tìm lại thân thể, Ed và Al đã phát hiện một bí mật kinh khủng về Giả kim thuật và Hòn đá Triết Gia."
+            },
+            {
+                "id": 14,
+                "title": "Tokyo Ghoul",
+                "genre": "Shounen, Super Power, Comedy, Martial Arts, Action",
+                "episode": 500,
+                "description": "."
+            },
+            {
+                "id": 15,
+                "title": "Ấu nữ chiến kỹ",
+                "genre": "Shounen, Super Power, Fantasy, Comedy, Adventure, Martial Arts, Action,",
+                "episode": 291,
+                "description": ""
+            }
+            
+        
 ]
